@@ -11,7 +11,6 @@ public class ArithmeticOperators {
     // -- (decrement) - decrements the value by 1
 
 
-
     //increment and decrement operators in java
     //increment operators ar of 2 types
     //1. Pre increment -> value is decremented first and then assigned or used in an expression
@@ -22,11 +21,6 @@ public class ArithmeticOperators {
     //2. Post increment -> value is assigned or used in an expression first and the decremented
 
 
-
-
-
-    //5. Conditional Operators
-    // ?
     public static void main(String[] args) {
         int x = 20;
         int y = 30;
@@ -44,5 +38,6 @@ public class ArithmeticOperators {
         System.out.println(y + "--"  + "=" + (y--));
         //Increment
         System.out.println(y + "++"  + "=" + (y++));
+
     }
 }

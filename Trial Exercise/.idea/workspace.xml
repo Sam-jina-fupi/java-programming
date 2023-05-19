@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1b204748-d689-4cae-bc37-e3bd4232dd40" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Arrays In Java/src/ArraysExercises.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays In Java/src/ArraysWithMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays In Java/src/CreatingAndUsingArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays In Java/src/InitializingArraysInJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays In Java/src/NameAndAgeArraysExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays In Java/src/WhatAreArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CinemaTicketBookingApp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CinemaTicketBookingApp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CinemaTicketBookingApp/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CinemaTicketBookingApp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CinemaTicketBookingApp/src/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CinemaTicketBookingApp/src/Seat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CinemaTicketBookingApp/src/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CinemaTicketBookingApp/src/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conditional Statements/src/BoundedForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conditional Statements/src/BreakAndContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conditional Statements/src/Exercises.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conditional Statements/src/IfElseStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conditional Statements/src/NestedIfAndLadderedIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conditional Statements/src/SwitchCaseDefaultExercises.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conditional Statements/src/SwitchStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conditional Statements/src/UnboundedDoWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conditional Statements/src/UnboundedWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Create File/src/CreateFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Create File/src/fileExercises.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Create File/src/readingFromFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Create File/src/writingToFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlatMatesBillAplication/src/Bill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlatMatesBillAplication/src/FlatMate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlatMatesBillAplication/src/PdfReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/src/FullTimeStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/src/PartTimeStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Methods/src/MethodExercises.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Methods/src/Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Methods/src/MethodsExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Methods/src/OddOrEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/src/ClassesAndObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/src/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practical Exercises/src/PracticeExerciseOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practical Exercises/src/PractiseExerciseTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practical Exercises/src/Sweets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practical Exercises/src/Weight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../variables/src/ConditionalOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../variables/src/ExplicitTypeCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../variables/src/Hypotenuse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../variables/src/ImplicitTypeCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../variables/src/Mainclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../variables/src/TypesOfAssignmentStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../variables/src/UserDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../variables/src/ArithmeticOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/../variables/src/ArithmeticOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../variables/src/LogicalOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/../variables/src/LogicalOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../variables/src/RelationalOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/../variables/src/RelationalOperators.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2PyKcriaK34McmnjxuPD29wI1J6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "onboarding.tips.debug.path": "C:/Users/F Macharia PC/Desktop/java programming/Trial Exercise/src/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b204748-d689-4cae-bc37-e3bd4232dd40" name="Changes" comment="" />
+      <created>1684423965128</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684423965128</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -13,9 +13,9 @@ public class RelationalOperators {
         // > compares both operands and returns true if operand on the left hand
         // side is greater than the value on the right hand side else if it will return true
         // >= (greater than or equal to : compares both the operands and returns the true if the
-        //value on the 
+        //value on the
         // <=
-
+;
         int num1 = 20;
         int num2 = 30;
 
@@ -27,3 +27,5 @@ public class RelationalOperators {
         System.out.println(num1 <= num2);
     }
 }
+
+//

@@ -20,7 +20,5 @@ public class LogicalOperators {
         int y = 40;
 
         System.out.println((x <= y) && (x <y));
-
-
     }
 }
